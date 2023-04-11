@@ -1,23 +1,23 @@
 # Big-Data
-欢迎来到README文件！
+Welcome to README file!
 
-1. 有关项目视频，我提供了三种观看方式，可自行选择
-（1）这是我上传到bilibili网站上的视频
+1. For the project videos, I offer three ways to watch them, so choose your own
+（1）This is the video I uploaded to the bilibili website
 https://www.bilibili.com/video/BV1XQ4y1K7im/ 
 
-（2）以下我分三部分将视频转化成了gif动图格式，更加直观但清晰度不高
+（2）Below I have converted the video in three parts into a gif moving image format, which is more intuitive but not as clear
 ![image](https://github.com/Yiran-H/Big-Data/blob/master/video1.gif)
 ![image](https://github.com/Yiran-H/Big-Data/blob/master/video2.gif)
 ![image](https://github.com/Yiran-H/Big-Data/blob/master/video3.gif)
 
-（3）目录中的1080p.MP4是直接上传的视频文件，不能直接在线观看，可尝试下载观看
+（3）The 1080p.MP4 in the directory is a direct upload video file, can not be watched online directly, try to download to watch
 
-2. python代码
+2. Python code
 https://github.com/Yiran-H/Big-Data/blob/master/app.py  
 
-3.总结报告
+3. Report
 https://github.com/Yiran-H/Big-Data/blob/master/BigData%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A%20%E9%BB%84%E8%89%BA%E5%86%89.pdf
-（文件有一点点大，如果一直reload不出来，可尝试下载观看，抱歉！）
+It is in Chinese version.
 
 
 Thanks for watching!
